@@ -1,7 +1,7 @@
 # Tmall--天猫官网
 
 
-[模仿天猫官网预览地址](http://zmqblog.top/Tmall/index.html)：http://zmqblog.top/Tmall/index.html
+[模仿天猫官网预览地址](http://meetzhang.github.io/Tmall/index.html)：http://meetzhang.github.io/Tmall/index.html
 
 ---
 # 基本介绍
